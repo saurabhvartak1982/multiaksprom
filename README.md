@@ -46,7 +46,7 @@ Prometheus Federation: <br />
 https://prometheus.io/docs/prometheus/latest/federation/ <br />
 https://medium.com/@jotak/prometheus-federation-in-kubernetes-4ce46bda834e <br />
 https://docs.d2iq.com/mesosphere/dcos/services/prometheus/0.1.0-2.3.2/configuration/prometheus-federation/ <br /><br />
-Prometheus **remote_write** and **remote_read**
+Prometheus **remote_write** and **remote_read** <br />
 https://prometheus.io/docs/operating/integrations/ <br />
 https://docs.influxdata.com/influxdb/v1.8/supported_protocols/prometheus/ <br />
 
